@@ -1,6 +1,6 @@
 All my homework assignments from **NYU Tandon's CS1134 class (Data Structures and Algorithms)**
 
-All homework assignments are in C++
+All homework assignments are in Python
 
 ______________
 
